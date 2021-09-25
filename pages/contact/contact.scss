@@ -1,0 +1,20 @@
+.contact {
+  .cgroup {
+    display: flex;
+    padding: 50px 100px;
+
+    .info {
+      padding: 50px 100px;
+    }
+  }
+
+  .image1 {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(../images/image4.jpg);
+
+    width: 300px;
+    height: 240px;
+  }
+}

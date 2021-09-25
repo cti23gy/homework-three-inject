@@ -1,0 +1,24 @@
+.products {
+  .pgroup {
+    display: flex;
+
+    section {
+      margin: auto;
+      text-align: center;
+    }
+
+    h2 {
+      padding-top: 10px;
+    }
+  }
+
+  .image1 {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(../images/image3.jpeg);
+
+    width: 260px;
+    height: 200px;
+  }
+}
